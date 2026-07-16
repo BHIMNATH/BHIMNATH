@@ -37,7 +37,7 @@ report generator using Flutter + Gemini API.
 Converts voice notes into bilingual government 
 reports in seconds.
 
-📱 **Android Apps on Play Store** — 1,000+ organic 
+📱 **Android Apps on Play Store** — 1,0000+ organic 
 downloads with zero marketing spend.
 
 🏛️ **Government Digital Registry** — Replaced manual 
