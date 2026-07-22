@@ -1,6 +1,6 @@
 # Hi, I'm Aswin Bhim Nath 👋
 
-Flutter & Android Engineer with 7+ years building 
+Software Engineer with 7+ years building 
 production-grade mobile and web applications 
 in Kerala, India.
 
